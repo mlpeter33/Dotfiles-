@@ -1,27 +1,10 @@
 <h1 align="center">✨ Dotfiles</h1>
 
-<p align="center">
-    <i>These are my configuration files also known as <b>dotfiles</b>.</i>
-    <img src="screenshots/cover.png">
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><sup>⚠️  ɪꜰ ʏᴏᴜ ᴊᴜꜱᴛ ᴡᴀɴᴛ ᴛʜᴇ ʙᴀʀ, ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ☄️</sup></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href='https://github.com/Axenide/Ax-Shell' target='_blank'>
-        <img style='border:0px;height:96px;' 
-             src='https://raw.githubusercontent.com/Axenide/Ax-Shell/main/assets/cover.png' 
-             border='0' alt='Ax-Shell: A hackable shell for Hyprland, powered by Fabric.' />
-      </a>
-    </td>
-  </tr>
-</table>
-
 > [!CAUTION]
 > This setup is specific for [Hyprland](https://github.com/hyprwm/Hyprland). Dont install it if you don't know what you're doing.
+>
+> [!CAUTION]
+> This is not the original repo!
 
 ## 📸 Check it out!
 ![](screenshots/1.png)
@@ -33,7 +16,7 @@
 [👉 Reddit Post](https://www.reddit.com/r/unixporn/comments/1hw6ur3/hyprland_are_we_fabricating_yet_wip/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 > [!WARNING]
-> The main branch is experimental, as I'm always making changes.
+> The main branch is experimental, as Axenide always making changes.
 >
 > Please refer to the [stable branch](https://github.com/Axenide/Dotfiles/tree/stable) if you want to use it.
 
